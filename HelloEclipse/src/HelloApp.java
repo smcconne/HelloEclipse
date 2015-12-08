@@ -3,7 +3,7 @@ public class HelloApp {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello smcconne!");
+		System.out.println("Hello Sage McConnell!");
 
 	}
 
